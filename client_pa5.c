@@ -9,7 +9,7 @@
 #include <arpa/inet.h>
 #include <sys/socket.h>
 
-#define SERVER "129.120.151.97"	// can be changed by any IP address
+#define SERVER "129.120.160.00"	// change to suitable IP address
 #define BUFLEN 4096
 
 void die (char *s){
